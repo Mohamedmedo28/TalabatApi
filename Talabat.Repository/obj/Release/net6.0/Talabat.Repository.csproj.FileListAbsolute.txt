@@ -1,0 +1,15 @@
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Repository.deps.json
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Repository.dll
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Repository.pdb
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Core.dll
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Core.pdb
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.dll
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\refint\Talabat.Repository.dll
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.pdb
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Release\net6.0\ref\Talabat.Repository.dll
