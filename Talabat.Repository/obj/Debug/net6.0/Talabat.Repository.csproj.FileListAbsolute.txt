@@ -13,3 +13,4 @@ D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repositor
 D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
 D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
 D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\BackEnd Route .Net\08 Api\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.sourcelink.json
